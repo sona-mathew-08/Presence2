@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/backend/dlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/face_recognition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/facer-classroom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/keras-facenet" vcs="Git" />
+  </component>
+</project>

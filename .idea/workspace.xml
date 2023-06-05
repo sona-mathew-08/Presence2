@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b039347b-315d-46af-a2c8-030193636513" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/facer-classroom/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000297/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000297/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000297/f000297_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000297/f000297_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000297/f000297_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000299/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000299/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000299/f000299_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000299/f000299_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000300/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000300/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000300/f000300_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000300/f000300_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000301/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000301/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000301/f000301_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000301/f000301_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000301/f000301_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000302/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000302/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000302/f000302_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000302/f000302_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000302/f000302_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000304/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000304/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000304/f000304_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000304/f000304_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000305/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000305/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000305/f000305_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000305/f000305_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000306/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000306/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000306/f000306_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000306/f000306_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000306/f000306_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000306/f000306_000004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000308/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000308/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000308/f000308_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000308/f000308_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000309/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000309/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000309/f000309_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000309/f000309_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000309/f000309_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000309/f000309_000004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000310/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000310/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000310/f000310_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000310/f000310_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000311/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000311/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000311/f000311_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000311/f000311_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000311/f000311_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000311/f000311_000004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000311/f000311_000005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000312/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000312/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000312/f000312_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000312/f000312_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000312/f000312_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000312/f000312_000004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000313/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000313/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000313/f000313_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000313/f000313_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000313/f000313_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000314/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000314/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000314/f000314_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000314/f000314_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000316/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000316/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000316/f000316_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000316/f000316_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000317/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000317/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000317/f000317_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000317/vgg.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000317/vgg_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000318/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000318/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000318/f000318_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000318/f000318_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000318/vgg.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000318/vgg_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000319/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000319/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000319/f000319_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000319/f000319_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000319/f000319_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000319/f000319_000004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000320/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000320/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000320/f000320_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000320/f000320_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000320/f000320_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000320/f000320_000004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000321/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000321/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000321/f000321_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000321/f000321_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000321/f000321_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000321/f000321_000004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000322/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000322/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000322/f000322_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000322/f000322_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000322/f000322_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000322/f000322_000004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000323/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000323/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000323/f000323_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000323/f000323_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000323/f000323_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000324/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000324/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000324/f000324_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000324/f000324_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000324/f000324_000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000325/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000325/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000325/f000325_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000325/f000325_000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000326/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000326/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000326/f000326_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000327/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000327/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/enroll/000327/f000327_000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN01/Dlib_crop.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN01/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN01/Dlib_ix.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN01/FaceNet_crop.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN01/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN01/FaceNet_ix.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN01/IMG_9520.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN01/IMG_9521.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN01/IMG_9522.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN01/IMG_9523.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/Dlib_crop.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/Dlib_ix.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/FaceNet_crop.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/FaceNet_ix.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/IMG_9541.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/IMG_9542.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/IMG_9543.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/IMG_9544.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/IMG_9545.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN02/IMG_9546.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/Dlib_crop.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/Dlib_ix.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/FaceNet_crop.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/FaceNet_ix.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/IMG_9557.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/IMG_9558.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/IMG_9559.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/IMG_9560.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN03/IMG_9561.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/Dlib_crop.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/Dlib_ix.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/FaceNet_crop.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/FaceNet_ix.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/IMG_9716.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/IMG_9717.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/IMG_9718.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/IMG_9719.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/IMG_9720.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/IMG_9721.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN04/IMG_9722.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/Dlib_crop.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/Dlib_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/Dlib_ix.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/FaceNet_crop.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/FaceNet_desc.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/FaceNet_ix.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/IMG_9729.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/IMG_9730.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/IMG_9731.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/IMG_9732.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/data/sessions/LN05/IMG_9733.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/facer-classroom/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/student_list.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/facer-classroom/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/facer-classroom/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend/facer-classroom" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PvX8upV8Z10779uZX8aBZ4O82d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/PycharmProjects/faceryt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faceryt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/facer-classroom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/facer-classroom/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="faceryt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faceryt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/facer-classroom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/facer-classroom/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b039347b-315d-46af-a2c8-030193636513" name="Changes" comment="" />
+      <created>1684338373137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684338373137</updated>
+    </task>
+    <servers />
+  </component>
+</project>
